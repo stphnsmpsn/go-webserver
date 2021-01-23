@@ -1,0 +1,3 @@
+[submodule "go-webserver-frontend"]
+	path = go-webserver-frontend
+	url = git@github.com:stphnsmpsn/go-webserver-frontend.git
